@@ -13,6 +13,9 @@ a {
   text-align: center;
   font-size: 78px;
 }
+.card {
+  border: solid black 1px;
+}
 .card img {
   height: 300px;
   border-bottom: solid black 1px;
@@ -28,9 +31,12 @@ a {
   font-weight: bold;
 }
 .portfolio {
-  padding-top: 100px;
+  padding-top: 70px;
   padding-left: 30px;
   padding-right: 30px;
+}
+.portfolioCards {
+  padding-top: 20px;
 }
 a:hover {
   color: darkmagenta;
